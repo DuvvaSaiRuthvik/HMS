@@ -1,2 +1,0 @@
-# HMS
-MINI PROJECT
